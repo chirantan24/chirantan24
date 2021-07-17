@@ -32,7 +32,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=chirantan24">
 </p>
 
-<img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
 - 🌱 I’m currently 3rd year student at NIT , Warangal .<br>
 - 📖 Coding is my hobby .<br>
 - 🤩 Love competitive programming on codechef and codeforces .
