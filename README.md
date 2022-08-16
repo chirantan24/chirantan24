@@ -16,16 +16,7 @@
 <h2 align="center">Always ready to make new cool stuff, love to collab ,lets do it together</h2>
 <h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
-## &#x1f4c8; GitHub Stats
 
-
-<a href="https://github.com/chirantan24/chirantan24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantan24&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chirantan's GitHub Stats" />
-</a>
-<a href="https://github.com/chirantan24/chirantan24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirantan24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br/>
 
 *Github Streak:*
 <p align = "center">
