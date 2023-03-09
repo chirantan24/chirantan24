@@ -23,7 +23,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=chirantan24">
 </p>
 
-- 🌱 I’m currently 3rd year student at NIT , Warangal .<br>
+- 🌱 I’m currently 4th year student at NIT , Warangal .<br>
 - 📖 Coding is my hobby .<br>
 - 🤩 Love competitive programming on codechef and codeforces .
 - 💻 My work also includes web applications based on django as backend framework.<br>
